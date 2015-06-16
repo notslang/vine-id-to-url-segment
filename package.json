@@ -1,0 +1,25 @@
+{
+  "name": "vine-id-to-url-segment",
+  "description": "Convert Vine video IDs into Vine permalinks, algorithmically",
+  "version": "0.0.0",
+  "author": "Sean Lang <slang800@gmail.com>",
+  "dependencies": {
+    "bignumber.js": "^2.0.7"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  },
+  "keywords": [
+    "vine",
+    "convert",
+    "permalink"
+  ],
+  "license": "GPLv3",
+  "main": "lib",
+  "repository": "git://github.com/slang800/vine-id-to-url-segment.git",
+  "scripts": {
+    "test": "mocha"
+  }
+}
