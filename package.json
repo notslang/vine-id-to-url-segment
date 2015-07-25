@@ -16,7 +16,7 @@
     "convert",
     "permalink"
   ],
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "main": "lib",
   "repository": "git://github.com/slang800/vine-id-to-url-segment.git",
   "scripts": {
